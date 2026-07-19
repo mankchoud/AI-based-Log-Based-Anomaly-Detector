@@ -9,3 +9,4 @@ venv/
 *.tfstate
 *.tfstate.backup
 .env
+flagged_anomalies.csv
