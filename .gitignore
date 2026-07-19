@@ -1,0 +1,11 @@
+data/*.csv
+data/*.txt
+*.joblib
+__pycache__/
+*.pyc
+.venv/
+venv/
+.terraform/
+*.tfstate
+*.tfstate.backup
+.env
